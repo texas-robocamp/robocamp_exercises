@@ -8,7 +8,7 @@ project(7_1)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  texas_robocamp
+  texas_robotics_academy
   roscpp
 )
 
@@ -104,7 +104,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES robocamp_solutions
-#  CATKIN_DEPENDS texas_robocamp roscpp
+#  CATKIN_DEPENDS texas_robotics_academy roscpp
 #  DEPENDS system_lib
 )
 

@@ -1,6 +1,6 @@
 #include <ros/ros.h>
 #include <unistd.h>
-#include "texas_robocamp/texbot_wrapper.h"
+#include "texas_robotics_academy/texbot_wrapper.h"
 
 int main(int argc, char **argv) {
 
